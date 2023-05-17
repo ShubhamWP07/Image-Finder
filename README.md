@@ -1,12 +1,3 @@
-# Getting Started with Create React App
+# Image-Searching-Web-App-React-js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live link: https://image-searching-web-app-react-js.netlify.app/
